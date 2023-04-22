@@ -100,7 +100,7 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 scikit-learn==1.0.2
 scikit-learn-intelex==2021.3.0
-scipy==1.10.0
+scipy==1.7.3
 seaborn==0.12.2
 Send2Trash==1.8.0
 six==1.16.0
